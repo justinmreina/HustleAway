@@ -5,13 +5,23 @@
 
 
 @section 	Summary
+	Start a bi-monthly course at the Reach, helping us retake control of our lives in a world today
+	that engulfs and consumes, taking so much
+	
+	- Bi-monthly one-hour meetings
+	- Assigned reading
+	- ... evolution and growth to be seen!
+	
+@section 	Idea
 	This is an idea, for those us of adsorbed into the culture of doing more being better and achieving success,
-	this mindset is optional, and utltimately pays its own cost to play
+	this mindset is optional, utltimately incurring a cost of its very own!
 	
 	Lets remove that outer layer, of the hurry and the worry and re-find ourselves, finiding peace within
 	and happiness about you -
-	
-	And still achieving the same results! Central in the teachings of Jeff Bethke here, we will meet bi-monthly to
+
+		• "To Hell with the Hustle" - Jeff Bethke [2]
+		
+	And still achieve the same results! Central in the teachings of Jeff here, we will meet bi-monthly to
 	start
 
 @section 	Coursework
@@ -31,3 +41,6 @@
 
 @section 	References
 	1. https://github.com/justinmreina/HustleAway
+	2. https://courses.familyteams.com/thwth
+	3. https://jeffandalyssa.com/
+
